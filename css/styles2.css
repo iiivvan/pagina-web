@@ -1,0 +1,57 @@
+body{
+    margin: 5%;
+    background: linear-gradient(to bottom, black, #800020, red);
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color:#ff0000;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.header img {
+    width: 30%;
+    height: auto;
+}
+
+.logo-image{
+    width:30%;
+    color: rgb(255, 255, 255);
+}
+
+div{ 
+    color: rgb(10, 96, 56);
+    width: 19%;
+    height: 80px;
+    background-color: rgb(255, 0, 0);
+    display: inline-block;
+}
+
+p{
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+}
+
+.motomami{
+    width: 60%;
+    align: center;
+}
